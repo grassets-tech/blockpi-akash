@@ -12,8 +12,8 @@ echo ${my_beacon}
 echo ${my_hypernode_password}
 echo ${my_root_password}
 
-(echo ${my_root_password}; echo ${my_root_password}) | passwd root
-service ssh restart
+# (echo ${my_root_password}; echo ${my_root_password}) | passwd root
+# service ssh restart
 
 mkdir ~/HyperNode
 cd ~/HyperNode
