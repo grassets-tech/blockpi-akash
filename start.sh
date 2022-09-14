@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# my_name=davaymne
-# my_beacon=1.1.1.1
-# my_erc_20=0x000
-# my_hypernode_password=test1
-# my_root_password=test1
+my_name=davaymne
+my_beacon=1.1.1.1
+my_erc_20=0x000
+my_hypernode_password=test1
+my_root_password=test1
 
 echo ${my_root_password}
 echo ${my_name}
