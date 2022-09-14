@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 my_name=davaymne
 my_beacon=1.1.1.1
 my_erc_20=0x000
